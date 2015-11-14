@@ -14,6 +14,10 @@ image.save('catflag.png')
 profile_picture = Flagify('melody').add_flag('flags.png')
 profile_picture.save('melodyflags.png')
 ```
+## Or run from command line
+```
+python3 flagify.py path_to_profile_picture path_to_flag
+```
 
 ##Rendered Pictures
 ![Picture](https://github.com/jontonsoup4/flagify/blob/master/examples/melodyflags.png)
