@@ -1,0 +1,1 @@
+from .flagify import Flagify
